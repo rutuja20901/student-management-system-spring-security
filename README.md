@@ -49,4 +49,17 @@ built with Bootstrap. Data is stored and managed using Spring Data JPA with a re
 - Integrating JSP with Spring Boot
 - Building a real-world web application
 
-  
+#### Dashboard
+<img src="images/dashboard.png" width="750"/>
+
+#### Register
+<img src="images/Register" width="750"/>
+
+#### Login
+<img src="images/login" width="750"/>
+
+#### Student form
+<img src="images/StudentForm" width="750"/>
+
+#### Student update form
+<img src="images/UpdateForm" width="750"/>
