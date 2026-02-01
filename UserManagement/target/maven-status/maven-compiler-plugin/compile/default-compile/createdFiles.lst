@@ -1,0 +1,9 @@
+com\usermanagement\system\model\Student.class
+com\usermanagement\system\config\CustomUserDetailsService.class
+com\usermanagement\system\config\SpringSecurity.class
+com\usermanagement\system\controller\StudentController.class
+com\usermanagement\system\repository\StudentRepository.class
+com\usermanagement\system\dto\LoginRequest.class
+com\usermanagement\system\UserManagementApplication.class
+com\usermanagement\system\dto\RegisterRequest.class
+com\usermanagement\system\service\StudentService.class
