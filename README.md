@@ -50,16 +50,16 @@ built with Bootstrap. Data is stored and managed using Spring Data JPA with a re
 - Building a real-world web application
 
 #### Dashboard
-<img src="images/dashboard.png" width="750"/>
+<img src="UserManagement/images/dashboard.png" width="750"/>
 
 #### Register
-<img src="images/Register.png" width="750"/>
+<img src="UserManagement/images/Register.png" width="750"/>
 
 #### Login
-<img src="images/login.png" width="750"/>
+<img src="UserManagement/images/login.png" width="750"/>
 
 #### Student form
-<img src="images/StudentForm.png" width="750"/>
+<img src="UserManagement/images/StudentForm.png" width="750"/>
 
 #### Student update form
-<img src="images/UpdateForm.png" width="750"/>
+<img src="UserManagement/images/UpdateForm.png" width="750"/>
