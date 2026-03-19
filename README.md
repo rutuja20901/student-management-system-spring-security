@@ -9,6 +9,9 @@ and allows authenticated users to perform CRUD operations on student records.
 Students can be added, updated, viewed, and deleted through a clean dashboard interface 
 built with Bootstrap. Data is stored and managed using Spring Data JPA with a relational database.
 
+## 🚀 Live Demo
+https://student-management-system-spring.onrender.com/login
+
 #### 🛠️ Tech Stack
 -  Java 17
 -  Spring Boot
