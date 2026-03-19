@@ -85,11 +85,7 @@
     <artifactId>jakarta.servlet.jsp.jstl</artifactId>
 </dependency>
 
-		<dependency>
-			<groupId>com.example</groupId>
-			<artifactId>Spring_Project</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 
 	<build>
